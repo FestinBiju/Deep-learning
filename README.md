@@ -4,3 +4,5 @@ This project uses the popular MNIST dataset of handwritten numbers to create a m
 
 # PROJECT 2: Brain tumor classification using CNN
 This project focuses on classifying brain MRI images to detect the presence of a brain tumor. It uses a Convolutional Neural Network (CNN) to distinguish between images labeled as "Tumor" or "No Tumor."
+## Clone this Repository
+`git clone https://github.com/FestinBiju/Deep-learning.git`
